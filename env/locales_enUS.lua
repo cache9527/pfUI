@@ -34,6 +34,7 @@ pfUI_locale["enUS"]["hunterpaging"] = {
 pfUI_locale["enUS"]["customcast"] = {
   ["AIMEDSHOT"] = "Aimed Shot",
   ["MULTISHOT"] = "Multi-Shot",
+  ["TRUESHOT"] = "Trueshot",
 }
 
 pfUI_locale["enUS"]["critters"] = {
@@ -3559,7 +3560,7 @@ pfUI_locale["enUS"]["icons"] = {
   ["Starshards"] = "Spell_Arcane_StarFire",
   ["Static Charge"] = "Spell_Nature_WispSplode",
   ["Staves"] = "INV_Staff_08",
-  ["Steady Shot"] = "Ability_Hunter_SteadyShot",
+  ["Trueshot"] = "Ability_Hunter_SteadyShot",
   ["Stealth"] = "Ability_Stealth",
   ["Stoneclaw Stun"] = "Spell_Nature_StoneClawTotem",
   ["Stoneclaw Totem"] = "Spell_Nature_StoneClawTotem",
